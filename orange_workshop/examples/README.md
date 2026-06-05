@@ -29,7 +29,7 @@ Once you're comfortable with the example workflows, try a couple of additional t
     * Use the **ROC Analysis** widget to compare multiple models. 
     * Examine the **Confusion Matrix**. Which classes are most often confused with each other?
 
-### C. Exploring the Larger Dataset
+### C. Exploring the Larger Dataset (project workflow)
 
 Use the larger exploration dataset to create your own question or hypothesis. Start by looking through the features and choosing something that interests you.
 
