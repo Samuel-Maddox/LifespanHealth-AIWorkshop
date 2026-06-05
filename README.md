@@ -45,10 +45,10 @@ Focuses on data exploration and visualization.
 <img width="707" height="376" alt="Screenshot 2026-06-05 130928" src="https://github.com/user-attachments/assets/dba2cc8b-0b27-4ad1-89ca-141f41ac9dbe" />
 
 
-2.0. **`cluster.ows`:** \
+2.0. **`02_cluster_example.ows`:** \
 Explores extra dataset 2.0. using an example cluster analysis. See if you can identify the specific features of each cluster.
 
-3.0. **`project.ows`:** \
+3.0. **`03_project.ows`:** \
 Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis. 
 
 
