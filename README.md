@@ -12,7 +12,7 @@ All materials are located within this `orange_workshop` directory.
 ## Synthetic Datasets
 The datasets provided are **synthetically generated**. They are designed to mimic the statistical properties and trends found in real samples but **do not contain any real patient information**. These datasets are for example workshop purposes only.
 
-We have provided datasets with two different feature sets and two different sample sizes:
+We have provided a selection of datasets with different feature sets:
 
 1.1 **MRI Features:** These datasets contain features typically derived from Magnetic Resonance Imaging (5k/20k options).
 
