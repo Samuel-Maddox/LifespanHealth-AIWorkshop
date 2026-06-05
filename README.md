@@ -47,6 +47,8 @@ Focuses on data exploration and visualization.
 
 2.0. **`02_cluster_example.ows`:** \
 Explores extra dataset 2.0. using an example cluster analysis. See if you can identify the specific features of each cluster.
+<img width="707" height="376" alt="Screenshot 2026-06-05 133838" src="https://github.com/user-attachments/assets/948c0f29-c44e-4af7-b545-2ec616712c33" />
+
 
 3.0. **`03_project.ows`:** \
 Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis. 
