@@ -14,16 +14,16 @@ The datasets provided are **synthetically generated**. They are designed to mimi
 
 We have provided a selection of datasets with different feature sets:
 
-1.1 **MRI Features:**  \
+1.1 **`MRI Features`:**  \
 These datasets contain features typically derived from Magnetic Resonance Imaging (5k/20k options).
 
-1.2. **Cognitive Scores:**  \
+1.2. **`Cognitive Scores`:**  \
 These datasets contain features representing scores from various cognitive tests (5k/20k options).
 
-2.0. **Extra Cognitive and Brain Features:**  \
+2.0. **`Extra Cognitive and Brain Features`:**  \
 Test your learning with an additional example!
 
-3.0. **Synthetic Clinical Features:**  \
+3.0. **`Synthetic Clinical Features`:**  \
 Example of extended clinically relevant features.
 
 ## Example Workflows
@@ -43,7 +43,7 @@ Focuses on data exploration and visualization.
 2.0. **`cluster.ows`:** \
 Explores extra datasets using an example cluster analysis. See if you can identify the specific features of each cluster.
 
-3.0. **`project.ows`:**
+3.0. **`project.ows`:** \
 Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis.
 
  
