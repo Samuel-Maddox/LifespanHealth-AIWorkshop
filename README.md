@@ -34,7 +34,7 @@ Demonstrates a basic classification pipeline: loading data, selecting features, 
 1.2. **`regression_simple.ows`:**
 Demonstrates a basic regression pipeline.
     
-1.3. **`classification_workflow_extended.ows`:**
+1.3. **`classification_workflow_extended.ows`:** \
 Expands on the simple classification workflow by introducing more advanced techniques for feature importance evaluation.
     
 1.4. **`visualise.ows`:**
