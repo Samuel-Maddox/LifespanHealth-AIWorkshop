@@ -50,7 +50,7 @@ Empty workflow. Load dataset 04 and refer to previous examples to explore your o
 ## Getting Started
 1.  **Install Orange:** If you haven't already, download and install Orange from [https://orangedatamining.com/download/](https://orangedatamining.com/download/).
 2.  **Explore Workflows:** Download the repository, unzip and open the example workflows in Orange. 
-<img width="1466" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/4cd7041c-854d-4b9d-908f-b417681988fe" />
+<img width="1405" height="564" alt="Screenshot 2026-06-05 130446" src="https://github.com/user-attachments/assets/4b6ec445-5668-496f-aaab-f599c3a9f0d1" />![Uploading Screenshot 2026-06-05 130558.png…]()
 
 3.  **Thats it - super simple!** \
 
