@@ -14,33 +14,37 @@ The datasets provided are **synthetically generated**. They are designed to mimi
 
 We have provided a selection of datasets with different feature sets:
 
-1.1 **MRI Features:** These datasets contain features typically derived from Magnetic Resonance Imaging (5k/20k options).
+1.1 **MRI Features:** 
+These datasets contain features typically derived from Magnetic Resonance Imaging (5k/20k options).
 
-1.2. **Cognitive Scores:** These datasets contain features representing scores from various cognitive tests (5k/20k options).
+1.2. **Cognitive Scores:** 
+These datasets contain features representing scores from various cognitive tests (5k/20k options).
 
-2.0. **Extra Cognitive and Brain Features:** Test your learning with an additional example!
+2.0. **Extra Cognitive and Brain Features:** 
+Test your learning with an additional example!
 
-3.0. **Synthetic Clinical Features:** Example of extended clinically relevant features.
+3.0. **Synthetic Clinical Features:** 
+Example of extended clinically relevant features.
 
 ## Example Workflows
 
 1.1. **`classification_simple.ows`:**
-     Demonstrates a basic classification pipeline: loading data, selecting features, training a simple model, and evaluating its performance (e.g., accuracy, confusion matrix).
+Demonstrates a basic classification pipeline: loading data, selecting features, training a simple model, and evaluating its performance (e.g., accuracy, confusion matrix).
     
 1.2. **`regression_simple.ows`:**
-     Demonstrates a basic regression pipeline.
+Demonstrates a basic regression pipeline.
     
 1.3. **`classification_workflow_extended.ows`:**
-     Expands on the simple classification workflow by introducing more advanced techniques for feature importance evaluation.
+Expands on the simple classification workflow by introducing more advanced techniques for feature importance evaluation.
     
 1.4. **`visualise.ows`:**
-     Focuses on data exploration and visualization.
+Focuses on data exploration and visualization.
 
 2.0. **`cluster.ows`:**
-     Explores extra datasets using an example cluster analysis. See if you can identify the specific features of each cluster.
+Explores extra datasets using an example cluster analysis. See if you can identify the specific features of each cluster.
 
 3.0. **`project.ows`:**
-     Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis.
+Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis.
 
  
 ## Getting Started
