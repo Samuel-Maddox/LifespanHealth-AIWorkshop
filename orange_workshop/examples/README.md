@@ -29,16 +29,28 @@ Once you're comfortable with the example workflows, try a couple of additional t
     * Use the **ROC Analysis** widget to compare multiple models. 
     * Examine the **Confusion Matrix**. Which classes are most often confused with each other?
 
-### C. Bringing Your Own Data
+### C. Exploring the Larger Dataset
 
-If you have your own tabular dataset (e.g., a CSV file) that you'd like to explore for a classification or regression task:
+Use the larger exploration dataset to create your own question or hypothesis. Start by looking through the features and choosing something that interests you.
 
-1.  **Load Your Data:** Use the **File** widget in Orange.
-2.  **Inspect & Preprocess:**
-    * Use **Data Info** and **Feature Statistics** to understand its structure.
-    * Use **Edit Domain** to correct any misidentified data types (e.g., categorical features read as numbers).
-    * Use **Select Columns** to choose your features and define your target variable.
-    * Use **Impute** if you have missing data.
-3.  **Apply Workflows:** Try to adapt the example workflows from this workshop (e.g., `1_simple_classification.ows` or `3_visualisations.ows`) to your dataset.
+1. **Load the Data:**
+   * Open the larger dataset in Orange using the **File** widget.
+   * Use **Data Table** and **Feature Statistics** to inspect the data.
+   * Check the variable lookup table to understand what each feature means.
 
-Remember to save your modified workflows often! Have fun exploring!
+2. **Choose Features to Explore:**
+   * **Mental health:** depression, anxiety, general mental health scores.
+   * **Biomarkers:** cholesterol, glucose, blood markers, vitamin levels.
+   * **Health factors:** smoking, BMI, alcohol use, blood pressure, cholesterol history.
+
+3. **Prepare the Data:**
+   * Use **Edit Domain** to check variable types.
+   * Use **Select Columns** to choose your features and target variable.
+   * Use **Impute** to handle missing values.
+
+4. **Test Your Own Hypothesis:**
+   * Decide what relationship you want to explore.
+   * For example: *Are smoking habits related to biomarker values or mental health scores?*
+   * Try using visualisation, classification, regression, or clustering workflows.
+
+Remember to save your workflow often. Have fun exploring!
