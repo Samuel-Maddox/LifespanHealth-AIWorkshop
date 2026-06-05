@@ -28,19 +28,19 @@ Example of extended clinically relevant features (with data dictionary).
 
 ## Example Workflows
 
-1.1. **`classification_simple.ows`:** \
+1.1. **`01_classification_simple.ows`:** \
 Demonstrates a basic classification pipeline: loading data, selecting features, training a simple model, and evaluating its performance (e.g., accuracy, confusion matrix).
 <img width="873" height="344" alt="Screenshot 2026-06-05 130558" src="https://github.com/user-attachments/assets/5fb2a13b-e496-442f-afb9-d5d254e33d2c" />
     
-1.2. **`regression_simple.ows`:** \
+1.2. **`01_regression_simple.ows`:** \
 Demonstrates a basic regression pipeline.
 <img width="914" height="356" alt="Screenshot 2026-06-05 130956" src="https://github.com/user-attachments/assets/56f5422d-21a8-44c5-9fe8-33f8c419eede" />
     
-1.3. **`classification_workflow_extended.ows`:** \
+1.3. **`01_classification_workflow_extended.ows`:** \
 Expands on the simple classification workflow by introducing more advanced techniques for feature importance evaluation.
 <img width="837" height="346" alt="Screenshot 2026-06-05 131036" src="https://github.com/user-attachments/assets/d0a3f1a5-dfdc-48ed-80ee-0ffa409d2fe1" />
 
-1.4. **`visualise.ows`:** \
+1.4. **`01_visualise.ows`:** \
 Focuses on data exploration and visualization.
 <img width="707" height="376" alt="Screenshot 2026-06-05 130928" src="https://github.com/user-attachments/assets/dba2cc8b-0b27-4ad1-89ca-141f41ac9dbe" />
 
