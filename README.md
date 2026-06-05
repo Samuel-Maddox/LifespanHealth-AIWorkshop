@@ -49,7 +49,7 @@ Focuses on data exploration and visualization.
 Explores extra dataset 2.0. using an example cluster analysis. See if you can identify the specific features of each cluster.
 
 3.0. **`project.ows`:** \
-Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis.
+Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis. \
 
  
 ## Getting Started
