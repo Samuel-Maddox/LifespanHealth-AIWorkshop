@@ -1,0 +1,104 @@
+Variable,Description,Missing_N
+Synthetic_ID,Synthetic participant identifier.,0
+Age,Participant age in years.,0
+Ethnicity,Participant self-reported race/ethnicity group.,0
+Gender,Participant gender code.,0
+MaritalStatus,Participant marital-status category.,15
+Education,Participant education level or years of education.,0
+Insurance_Private,Private health insurance indicator.,12
+Insurance_Mix,Mixed/private-public health insurance indicator.,13
+Insurance_Public,Public health insurance indicator.,12
+Insurance_NoInsurance,No health insurance indicator.,16
+Weight,Body weight measurement.,894
+BMI,Body mass index.,55
+Diabetes,History of diabetes indicator.,2
+HighCholesterol,History of high cholesterol indicator.,1
+Stroke,History of stroke indicator.,2
+HeartAttack,History of heart attack indicator.,1
+Depression,History of depression indicator.,2
+Anxiety,History of anxiety indicator.,6
+TBI,History of traumatic brain injury indicator.,5
+Alzheimers,History of Alzheimer's disease indicator.,0
+Smoke_Currently,Current smoking indicator.,1
+Smoke_Ever,Ever-smoked indicator.,781
+Smoke_Ever_PerDay,Average cigarettes smoked per day among ever-smokers.,6780
+AUDIT_Total,Alcohol Use Disorders Identification Test total score.,29
+PSWQ_Total,Penn State Worry Questionnaire total score.,49
+GDS_Total,Geriatric Depression Scale total score.,119
+ChronicStress_Total,Total chronic stress score.,14
+RAPA_1_Total,RAPA aerobic physical activity score.,10
+RAPA_2_Total,RAPA strength/flexibility activity score.,2780
+Tug_Time,Timed Up and Go completion time in seconds.,162
+Total_Balance_Tests_Score,SPPB balance component score.,118
+Total_Gait_Speed_Score,SPPB gait speed component score.,101
+Total_Repeated_Chair_Stand,SPPB repeated chair-stand component score.,117
+Total_Score_SPPB,Short Physical Performance Battery total score.,98
+MMSE_Total,Mini-Mental State Examination total score.,145
+DSF_Total,Digit Span Forward total score.,79
+DSB_Total,Digit Span Backward total score.,84
+DS_Total,Combined Digit Span total score.,131
+LM1_A_Total,Logical Memory I story A immediate recall score.,19
+LM1_B1_Total,Logical Memory I story B first immediate recall score.,19
+LM1_B2_Total,Logical Memory I story B second immediate recall score.,32
+LM1_AB_Total,Logical Memory I combined immediate recall score.,11
+LM2_A_Total,Logical Memory II story A delayed recall score.,17
+LM2_B_Total,Logical Memory II story B delayed recall score.,18
+LM2_AB_Total,Logical Memory II combined delayed recall score.,19
+FAS_Total,Letter fluency total score for F/A/S.,9
+Animal_Total,Animal category fluency total score.,10
+Digit_Symbol_Substitution,Digit Symbol Substitution score.,116
+TOMM_Total,Test of Memory Malingering total score.,912
+Trails_A_Time,Trail Making Test Part A completion time in seconds.,71
+Trails_A_Errors,Trail Making Test Part A error count.,152
+Trails_B_Time,Trail Making Test Part B completion time in seconds.,161
+Trails_B_Errors,Trail Making Test Part B error count.,248
+Memory,Clinical Dementia Rating memory box score.,8
+Orientation,Clinical Dementia Rating orientation box score.,5
+Judgement,Clinical Dementia Rating judgment/problem solving box score.,2
+CommunityAffairs,Clinical Dementia Rating community affairs box score.,2
+HomeandHobbies,Clinical Dementia Rating home and hobbies box score.,4
+PersonalCare,Clinical Dementia Rating personal care box score.,0
+Cog,Consensus cognitive diagnosis/category code.,0
+Cog_Change,Clinician-rated cognitive change indicator.,0
+SCC,Subjective cognitive complaint indicator.,2935
+CholTotal,Total cholesterol blood value.,387
+HDLChol,HDL cholesterol blood value.,349
+LDLchol,LDL cholesterol blood value.,481
+Triglycerides,Triglycerides blood value.,375
+Cholhdlcratio,Total cholesterol to HDL cholesterol ratio.,363
+Nonhdl,Non-HDL cholesterol blood value.,397
+Glucose,Blood glucose value.,383
+HBA1c,Hemoglobin A1c value.,364
+Creatinine,Serum creatinine value.,337
+EGFR,Estimated glomerular filtration rate.,6495
+Sodium,Serum sodium value.,355
+Potass,Serum potassium value.,377
+Chloride,Serum chloride value.,353
+Carbondiox,Serum carbon dioxide/bicarbonate value.,350
+Protein,Total serum protein value.,347
+ALB,Serum albumin value.,373
+GLOB,Serum globulin value.,355
+ALB_GLOB,Albumin-to-globulin ratio.,323
+Calcium,Serum calcium value.,346
+Bilirubin,Total bilirubin value.,332
+ALKA,Alkaline phosphatase value.,352
+AST,Aspartate aminotransferase value.,331
+ALT,Alanine aminotransferase value.,374
+TSH,Thyroid-stimulating hormone value.,348
+T4,Thyroxine/T4 value.,372
+WBC,White blood cell count.,358
+RBC,Red blood cell count.,390
+Hemoglobin,Hemoglobin value.,430
+Hematocrit,Hematocrit percentage/value.,408
+MCV,Mean corpuscular volume.,390
+MCH,Mean corpuscular hemoglobin.,423
+MCHC,Mean corpuscular hemoglobin concentration.,398
+RDW,Red cell distribution width.,430
+Platelet,Platelet count.,395
+Neutrophils,Neutrophil percentage/value.,457
+Lymphocytes,Lymphocyte percentage/value.,392
+Monocytes,Monocyte percentage/value.,372
+Eosinophils,Eosinophil percentage/value.,428
+Baspphils,Basophil percentage/value.,422
+Vitaminb12,Vitamin B12 blood value.,365
+Folate,Folate blood value.,370
