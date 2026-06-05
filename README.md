@@ -1,13 +1,13 @@
 Welcome to the workshop on applying simple AI methods for dementia research using the Orange Data Mining tool!
 
 ## About Orange Data Mining
-[Orange](https://orangedatamining.com/) is an open-source data visualization, machine learning, and data mining toolkit. It features a visual programming front-end for explorative data analysis and interactive visualization, and can also be used as a Python library. Orange is designed to be user-friendly, making complex data analysis tasks accessible to everyone.
+[Orange](https://orangedatamining.com/) is an open-source data visualization, machine learning, and data mining toolkit. It features a visual programming front-end for explorative data analysis and interactive visualization, and can also be used as a Python library. Orange is designed to be user-friendly, making complex data analysis tasks accessible to everyone. \
 
 ## Workshop Materials
-All materials are located within this `orange_workshop` directory.
+All materials are located within this `orange_workshop` directory. \
  
 * **Example Workflows:** Pre-built Orange workflow files (`.ows`) are stored in `examples/`.
-* **Synthetic Datasets:** The synthetic data files (`.csv`) for use in the workflows are stored in `examples/data/`.
+* **Synthetic Datasets:** The synthetic data files (`.csv`) for use in the workflows are stored in `examples/data/`. \
 
 ## Synthetic Datasets
 The datasets provided are **synthetically generated**. They are designed to mimic the statistical properties and trends found in real samples but **do not contain any real patient information**. These datasets are for example workshop purposes only.
@@ -27,22 +27,26 @@ Test your learning with an additional example!
 Example of extended clinically relevant features.
 
 ## Example Workflows
-<img width="1745" height="687" alt="Screenshot 2026-06-05 130558" src="https://github.com/user-attachments/assets/5fb2a13b-e496-442f-afb9-d5d254e33d2c" />
 
 1.1. **`classification_simple.ows`:** \
 Demonstrates a basic classification pipeline: loading data, selecting features, training a simple model, and evaluating its performance (e.g., accuracy, confusion matrix).
+<img width="1745" height="687" alt="Screenshot 2026-06-05 130558" src="https://github.com/user-attachments/assets/5fb2a13b-e496-442f-afb9-d5d254e33d2c" />
     
 1.2. **`regression_simple.ows`:** \
 Demonstrates a basic regression pipeline.
+<img width="1828" height="712" alt="Screenshot 2026-06-05 130956" src="https://github.com/user-attachments/assets/56f5422d-21a8-44c5-9fe8-33f8c419eede" />
     
 1.3. **`classification_workflow_extended.ows`:** \
 Expands on the simple classification workflow by introducing more advanced techniques for feature importance evaluation.
-    
+<img width="1674" height="692" alt="Screenshot 2026-06-05 131036" src="https://github.com/user-attachments/assets/d0a3f1a5-dfdc-48ed-80ee-0ffa409d2fe1" />
+
 1.4. **`visualise.ows`:** \
 Focuses on data exploration and visualization.
+<img width="1413" height="752" alt="Screenshot 2026-06-05 130928" src="https://github.com/user-attachments/assets/dba2cc8b-0b27-4ad1-89ca-141f41ac9dbe" />
+
 
 2.0. **`cluster.ows`:** \
-Explores extra datasets using an example cluster analysis. See if you can identify the specific features of each cluster.
+Explores extra dataset 2.0. using an example cluster analysis. See if you can identify the specific features of each cluster.
 
 3.0. **`project.ows`:** \
 Empty workflow. Load dataset 04 and refer to previous examples to explore your own hypothesis.
